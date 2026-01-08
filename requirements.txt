@@ -1,0 +1,10 @@
+# Основные зависимости
+pyrogram>=2.0.0
+tgcrypto>=1.2.3
+aiosmtpd>=1.4.4
+redis[hiredis]>=5.0.0
+dnspython>=2.4.0
+httpx>=0.25.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+aioredis>=2.0.0
